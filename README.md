@@ -19,13 +19,16 @@ Cada juego incluye título, plataforma, género, año de lanzamiento, desarrolla
 
 ## 📸 Capturas
 
-![Onboarding](screenshots/onboarding.png)
+![Onboarding](screenshots/onboarding.PNG)
+
 *Onboarding*
 
-![Inicio](screenshots/home.png)
+![Inicio](screenshots/home.PNG)
+
 *Catálogo de juegos*
 
-![Detalle](screenshots/detalle.png)
+![Detalle](screenshots/detalle.PNG)
+
 *Detalle del juego*
 
 ---
